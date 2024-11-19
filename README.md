@@ -7,8 +7,11 @@
 Bed Occupancy: Analyzes the utilization of Private, General, and ICU beds.
 
 Diagnosis Trends: Displays the count of cases for illnesses like Viral Infection, Flu, and Malaria.
+
 Billing vs. Insurance: Compares billed amounts with health insurance coverage.
+
 Doctor Feedback: Highlights patient ratings for individual doctors.
+
 Filters: Interactive date range and patient ID filters allow users to explore specific time periods or patient data.
 
 Benefits: Enables better resource allocation, tracks revenue discrepancies, monitors doctor performance, and identifies prevalent health issues for strategic planning.
