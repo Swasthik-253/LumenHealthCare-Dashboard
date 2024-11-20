@@ -5,7 +5,7 @@
 **Key Visuals:**
 
    **Bed Occupancy:** Analyzes the utilization of Private, General, and ICU beds.
-
+   
    **Diagnosis Trends:** Displays the count of cases for illnesses like Viral Infection, Flu, and Malaria.
 
    **Billing vs. Insurance:** Compares billed amounts with health insurance coverage.
