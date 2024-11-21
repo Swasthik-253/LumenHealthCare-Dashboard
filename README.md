@@ -9,7 +9,7 @@
    **Diagnosis Trends:** Displays the count of cases for illnesses like Viral Infection, Flu, and Malaria.
 
    **Billing vs. Insurance:** Compares billed amounts with health insurance coverage.
-
+   
    **Doctor Feedback:** Highlights patient ratings for individual doctors.
 
 **Filters:** Interactive date range and patient ID filters allow users to explore specific time periods or patient data.
